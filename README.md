@@ -62,7 +62,7 @@ If a factorial number consists of both whole and decimal numbers, the sum is cal
 
 ## Get this code:  
 This code was written in Python 3.
-> https://github.com/AnnemieP/Sum_facto_dig
+> https://github.com/AnnemieP/Sum_facto_digi
 
 
 
